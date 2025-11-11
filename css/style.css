@@ -8,3 +8,10 @@ html {
 ::before {
     box-sizing: inherit;
 }
+
+.backgroungImage {
+    background-image: url("../images/background_image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}

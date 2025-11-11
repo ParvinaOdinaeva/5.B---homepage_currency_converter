@@ -28,6 +28,7 @@
     width: 100%;
     max-width: 300px;
     margin-right: 10px;
+    color: white;
 }
 
 
@@ -63,6 +64,7 @@
 
 
 .form__result {
+    color: white;
     display: inline-block;
     width: 100%;
     max-width: 300px;
